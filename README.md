@@ -4,7 +4,7 @@
 |--:|:--|:--|
 |29|`Q` (`10`)|[`10`](https://developer.android.com/about/versions/10/)|
 |28|`P` (`Pie`)|[`9`](https://developer.android.com/about/versions/pie/)|
-|27|`O_MR1`|[`8.0`](https://developer.android.com/about/versions/oreo/android-8.1)|
+|27|`O_MR1`|[`8.1`](https://developer.android.com/about/versions/oreo/android-8.1)|
 |26|`O` (`Oreo`)|[`8.0`](https://developer.android.com/about/versions/oreo/)|
 |25|`N_MR1`|[`7.1`](https://developer.android.com/about/versions/nougat/android-7.1)|
 |24|`N` (`Nougat`)|[`7.0`](https://developer.android.com/about/versions/nougat/)|
