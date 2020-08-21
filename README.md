@@ -2,6 +2,7 @@
 
 |[API](https://developer.android.com/reference/android/os/Build.VERSION_CODES.html)|[Name](https://developer.android.com/reference/android/os/Build.VERSION_CODES.html)|[Android Version](https://developer.android.com/reference/android/os/Build.VERSION#RELEASE)|
 |--:|:--|:--|
+|30|`R` (`11`)|[`11`](https://developer.android.com/about/versions/11/)|
 |29|`Q` (`10`)|[`10`](https://developer.android.com/about/versions/10/)|
 |28|`P` (`Pie`)|[`9`](https://developer.android.com/about/versions/pie/)|
 |27|`O_MR1`|[`8.1`](https://developer.android.com/about/versions/oreo/android-8.1)|
