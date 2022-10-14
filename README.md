@@ -2,6 +2,8 @@
 
 |[API](https://developer.android.com/reference/android/os/Build.VERSION_CODES.html)|[Name](https://developer.android.com/reference/android/os/Build.VERSION_CODES.html)|[Android Version](https://developer.android.com/reference/android/os/Build.VERSION#RELEASE)|
 |--:|:--|:--|
+|33|`TIRAMISU` (`13`)|[`13`](https://developer.android.com/about/versions/13/)|
+|32|`S_V2` (`12L`)|[`12L`](https://developer.android.com/about/versions/12/12L/)|
 |31|`S` (`12`)|[`12`](https://developer.android.com/about/versions/12/)|
 |30|`R` (`11`)|[`11`](https://developer.android.com/about/versions/11/)|
 |29|`Q` (`10`)|[`10`](https://developer.android.com/about/versions/10/)|
